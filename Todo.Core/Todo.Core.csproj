@@ -4,6 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+	<PackageId>Todo.Core</PackageId>
+	<Version>0.1.0</Version>
+	<Authors>Maxouni</Authors>
+	<Company>io.pudge</Company>
+	<Description>Sinple Tobo core lidrary (for pracfice)</Description>
+	<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
